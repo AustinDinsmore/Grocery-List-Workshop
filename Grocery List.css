@@ -1,0 +1,45 @@
+h2 {
+    border: solid rgb(167, 29, 29);max-width: 150px; 
+    font-style: italic; 
+    background-color: antiquewhite;
+}
+.Canned{
+    display: inline-block;
+    border: solid rgb(92, 89, 89);
+    background-color: rgb(206, 192, 192);
+    margin-right: 20px;
+}
+.Produce{
+    border: solid rgb(59, 236, 23);
+    display: inline-block;
+    background-color: rgb(59, 236, 23);
+}
+.Cleaning{
+    border: solid yellow;
+    display: inline-block;
+    background-color: yellow;
+    margin-right: 20px;
+}
+.Kitchen{
+    border: solid rgb(40, 199, 204);
+    display: inline-block;
+    background-color: rgb(40, 199, 204);
+}
+section{
+    display: inline;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+}
+section{
+    align-items: center;
+    flex-direction: row;
+    
+}
+img{
+    size-adjust: width: 140px;height: 135px;
+    padding: 0px 20px;  
+    float: inline-end;
+    margin-right:500px
+}
